@@ -11,108 +11,31 @@ Este proyecto se utilizara el dron DJI Tello programable a traves de una conexio
 ## Requisitos
 Para poder realizar este proyecto necesitas los siguientes elementos:
 
-- Ubuntu 20.04 ()
-- ROS Noetic ()
-- Python 3 ()
-- Libreria DJITelloPy ()
+- Ubuntu 20.04 
+- ROS Noetic 
+- Python 3 
+- Libreria DJITelloPy 
 
 ## Configuracion de instalacion
+
 A pesar de que se pueda programar el Dron a traves de un Workspace en Windows, por tema de comunicaciones la mejor opcion es utilizar un sistema Linux, especialmente la distribucion de Ubuntu 20.04, para que sea compatible con ROS.
 
 Por lo tanto, para descargar ubuntu 20.04 seguir los siguientes pasos: https://osl.ugr.es/2020/05/20/como-instalar-ubuntu-1/
 
- Image Open
-
-Este es un repositorio para el control basico a base de una serie de movimientos programados para el dron DJI Tello.
-Descripcion general del proyecto
-
-Este proyecto se utilizara el dron DJI Tello programable a traves de una conexion wifi con el dron, el principal objetivo del proyecto es desarrollar un repositorio para el control basico del dron DJI Tello a traves de una secuencia de movimientos programados, para ello utilizaremos el middleware robótico ROS, programado a traves de Python 3.
-Requisitos
-
-Para poder realizar este proyecto necesitas los siguientes elementos:
-
-    Ubuntu 20.04 
-    ROS Noetic 
-    Python 3 
-    Libreria DJITelloPy 
-
-Configuracion de instalacion
-
-A pesar de que se pueda programar el Dron a traves de un Workspace en Windows, por tema de comunicaciones la mejor opcion es utilizar un sistema Linux, especialmente la distribucion de Ubuntu 20.04, para que sea compatible con ROS.
-
-Por lo tanto: para descargar ubuntu 20.04 seguir los siguientes pasos: https://osl.ugr.es/2020/05/20/como-instalar-ubuntu-1/
-
 Para descargar ROS noetic y crear el espacio de trabajo seguir estos pasos: http://wiki.ros.org/noetic/Installation
-
-Este es un repositorio para el control basico a base de una serie de movimientos programados para el dron DJI Tello.
-Descripcion general del proyecto
-
-Este proyecto se utilizara el dron DJI Tello programable a traves de una conexion wifi con el dron, el principal objetivo del proyecto es desarrollar un repositorio para el control basico del dron DJI Tello a traves de una secuencia de movimientos programados, para ello utilizaremos el middleware robótico ROS, programado a traves de Python 3.
-Requisitos
-
-Para poder realizar este proyecto necesitas los siguientes elementos:
-
-    Ubuntu 20.04 
-    ROS Noetic 
-    Python 3 
-    Libreria DJITelloPy 
-
-Configuracion de instalacion
-
-A pesar de que se pueda programar el Dron a traves de un Workspace en Windows, por tema de comunicaciones la mejor opcion es utilizar un sistema Linux, especialmente la distribucion de Ubuntu 20.04, para que sea compatible con ROS.
-
-Por lo tanto: para descargar ubuntu 20.04 seguir los siguientes pasos: https://osl.ugr.es/2020/05/20/como-instalar-ubuntu-1/
-Para descargar ROS noetic y crear el espacio de trabajo seguir estos pasos: http://wiki.ros.org/noetic/Installation
-Despues agregar la libreria DJITelloPy seguir los pasos en el siguiente repositorio: https://github.com/damiafuentes/DJITelloPy
-
-Se recomienda buscar mas sobre la intstalacion de lo anterior.
-
-## Simulacion
-
-
-
-
-
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-Attach files by dragging & dropping, selecting or pasting them.
-
-Este es un repositorio para el control basico a base de una serie de movimientos programados para el dron DJI Tello.
-Descripcion general del proyecto
-
-Este proyecto se utilizara el dron DJI Tello programable a traves de una conexion wifi con el dron, el principal objetivo del proyecto es desarrollar un repositorio para el control basico del dron DJI Tello a traves de una secuencia de movimientos programados, para ello utilizaremos el middleware robótico ROS, programado a traves de Python 3.
-Requisitos
-
-Para poder realizar este proyecto necesitas los siguientes elementos:
-
-    Ubuntu 20.04 
-    ROS Noetic 
-    Python 3 
-    Libreria DJITelloPy 
-
-Configuracion de instalacion
-
-A pesar de que se pueda programar el Dron a traves de un Workspace en Windows, por tema de comunicaciones la mejor opcion es utilizar un sistema Linux, especialmente la distribucion de Ubuntu 20.04, para que sea compatible con ROS.
-
-Por lo tanto: para descargar ubuntu 20.04 seguir los siguientes pasos: https://osl.ugr.es/2020/05/20/como-instalar-ubuntu-1/
-Para descargar ROS noetic y crear el espacio de trabajo seguir estos pasos: http://wiki.ros.org/noetic/Installation
-Despues agregar la libreria DJITelloPy seguir los pasos en el siguiente repositorio: https://github.com/damiafuentes/DJITelloPy
-
-Se recomienda buscar mas sobre la intstalacion de lo anterior.
-
-## Simulacion
-
-
-
-
-
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-Attach files by dragging & dropping, selecting or pasting them.
 
 Despues agregar la libreria DJITelloPy seguir los pasos en el siguiente repositorio: https://github.com/damiafuentes/DJITelloPy
 
 Se recomienda buscar mas sobre la intstalacion de lo anterior.
 
-## Simulacion
+## Nota
+El autor no se hace responsable de los prejucios que puedan existir al utilizar el codigo.
+
+## Contact
+Einar Cordova Reyes - einar.cor.rey@gmail.com - Github: EinarCordova 
+
+
+
 
 
 
